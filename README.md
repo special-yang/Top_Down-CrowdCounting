@@ -5,5 +5,6 @@ and MSE (e.g., it achieved a MAE of 67.1 and MSE of 301.6 on NWPU-Crowd dataset.
 ## Eistimator - CrowdFormer
 ![CrowdFormer.jpg](CrowdFormer.jpg)
 ## Generator  - KFMG
+![KFMG1.png](KFMG1.png)
 ## Results
 ![results.png](results.png)
