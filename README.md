@@ -3,3 +3,6 @@ Abstract:Recent crowd counting methods typically predict a density map as an int
 and MSE (e.g., it achieved a MAE of 67.1 and MSE of 301.6 on NWPU-Crowd dataset.), and confirm the effectiveness of the proposed two designs.
 
 ## CrowdFormer network
+
+## Results
+![image] ()
