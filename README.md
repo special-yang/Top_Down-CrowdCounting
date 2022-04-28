@@ -4,10 +4,10 @@ Abstract:Recent crowd counting methods typically predict a density map as an int
 and MSE (e.g., it achieved a MAE of 67.1 and MSE of 301.6 on NWPU-Crowd dataset.), and confirm the effectiveness of the proposed two designs.
 # Bibtex
 @inproceedings{CrowdFormer,  
- author = { Yang, Shaopeng and Guo, Weiyu and Ren, Yuheng },  
- title = {CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting},  
- booktitle = {INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-ECAI)},  
- year = {2022}  
+               author = { Yang, Shaopeng and Guo, Weiyu and Ren, Yuheng },  
+               title = {CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting},  
+               booktitle = {IJCAI},  
+               year = {2022}  
 }  
 
 ## Eistimator - CrowdFormer
